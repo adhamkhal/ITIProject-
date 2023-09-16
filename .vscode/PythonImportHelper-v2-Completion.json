@@ -1,0 +1,29 @@
+[
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "hangman",
+        "kind": 2,
+        "importPath": "hangmun_art",
+        "description": "hangmun_art",
+        "peekOfCode": "def hangman():\n  stages = ['''\n    +---+\n    |   |\n    O   |\n   /|\\  |\n   / \\  |\n        |\n  =========\n  ''', '''",
+        "detail": "hangmun_art",
+        "documentation": {}
+    },
+    {
+        "label": "logo",
+        "kind": 5,
+        "importPath": "hangmun_art",
+        "description": "hangmun_art",
+        "peekOfCode": "logo = ''' \n _                                             \n| |                                           \n| |__   __ _ _ __   __ _ _ __ ___   __ _ _ __  \n| '_ \\ / _` | '_ \\ / _` | '_ ` _ \\ / _` | '_ \\ \n| | | | (_| | | | | (_| | | | | | | (_| | | | |\n|_| |_|\\__,_|_| |_|\\__, |_| |_| |_|\\__,_|_| |_|\n                    __/ |                      \n                   |___/    '''\nprint(logo)",
+        "detail": "hangmun_art",
+        "documentation": {}
+    }
+]
